@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
+
 
 function Selection_sort()
 {
@@ -51,9 +46,3 @@ function Selection_sort()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
